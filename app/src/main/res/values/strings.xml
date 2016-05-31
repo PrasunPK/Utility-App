@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultipleActivity</string>
+    <string name="actOne_text">Enter text here</string>
+    <string name="submit_btn">Submit</string>
+</resources>
